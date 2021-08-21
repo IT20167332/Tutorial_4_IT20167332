@@ -1,0 +1,2 @@
+rootProject.name = "Tutorial_04_IT20167332"
+include ':app'
